@@ -30,8 +30,12 @@
 
 ---
 
+# Major challenges I expect to face is getting my database setup right along with my GUI and getting react fully connected to my backend.
+
+---
+
 # Post MVP
 
-# Adding social Authentication
+# Adding social Authentication so users can sign up and sign into their account with their social media or github.
 
-# Product Likes Feature
+# Product Likes Feature so users can like other users products.
