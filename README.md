@@ -2,7 +2,7 @@
 
 # App Description / MVP:
 
-# Trendy Market is an app that lets users sign up for an account and post new items that they bought are trending and allows them and other users to add commments under each others post.
+# Trendy Market is an app that lets users sign up for an account and post new items that they bought are trending and allows them and other users to add comments under each others post.
 
 ---
 
